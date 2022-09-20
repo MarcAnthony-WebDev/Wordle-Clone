@@ -59,9 +59,10 @@ body {
 #board {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  grid-gap: 5px;
+  grid-gap: 7px;
   padding: 10px;
   box-sizing: border-box;
+  margin: 3rem auto;
 }
 
 .square {
